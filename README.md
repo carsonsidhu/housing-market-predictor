@@ -8,6 +8,7 @@ using a multivariable regression model
 * [Features](#features)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
@@ -36,6 +37,9 @@ Room for improvement:
 - Implement more flexibility in how data is processes, to allow for new types of data formats to be entered into the program, so that we may be able to make predictions with different structures of data
 - Develop functionality that allows for new relationships to be formed between new types of data, further strengthening the prediction model 
 
+## Acknowledgements
+- This project was inspired by a Data Science coursed offered through Udemy's online school of learning
+- Many thanks to all the excellent instructors who made this possible and helped me along the way!
 
 
 ## Contact
