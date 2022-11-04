@@ -21,9 +21,9 @@ this seemed to be a great candidate. Using data science libraries such as Seabor
 
 ## Technologies Used
 - Python
-- Numpy - version 1.0
-- Seaborn - version 2.0
-- Pandas - version 3.0
+- Numpy
+- Seaborn
+- Pandas
 
 
 ## Project Status
